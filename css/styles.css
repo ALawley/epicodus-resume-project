@@ -1,0 +1,9 @@
+.important {
+  font-weight: bold;
+  font-size: 1.1x
+}
+
+.lists {
+  font-style: italic;
+  list-style: square;
+}
